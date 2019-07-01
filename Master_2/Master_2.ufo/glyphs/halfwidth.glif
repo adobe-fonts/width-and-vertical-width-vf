@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="halfwidth" format="1" >
+	<advance width="375"/>
+	<outline>
+		<contour>
+			<point x="20" y="950" type="line"/>
+			<point x="20" y="0" type="line"/>
+			<point x="355" y="0" type="line"/>
+			<point x="355" y="950" type="line"/>
+		</contour>
+		<contour>
+			<point x="40" y="930" type="line"/>
+			<point x="335" y="930" type="line"/>
+			<point x="335" y="20" type="line"/>
+			<point x="40" y="20" type="line"/>
+		</contour>
+	</outline>
+</glyph>

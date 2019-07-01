@@ -1,0 +1,15 @@
+[WidthAndVWidthVF_0]
+	f=Width & Vertical Width VF
+	s=Master 0
+
+[WidthAndVWidthVF_1]
+	f=Width & Vertical Width VF
+	s=Master 1
+
+[WidthAndVWidthVF_2]
+	f=Width & Vertical Width VF
+	s=Master 2
+
+[WidthAndVWidthVF]
+	f=Width & Vertical Width VF
+	s=Regular

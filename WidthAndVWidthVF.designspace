@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="3">
+    <axes>
+        <axis default="1000.0" minimum="1.0" maximum="1000.0" name="width" tag="wdth"/>
+        <axis default="1000.0" minimum="1.0" maximum="1000.0" name="vwidth" tag="VWID">
+            <labelname xml:lang="en">(Vertical) Width</labelname>
+            <labelname xml:lang="ja">&#xFF08;&#x7E26;&#x7D44;&#x307F;&#x306E;&#xFF09;&#x5B57;&#x5E45;</labelname>
+        </axis>
+    </axes>
+    <sources>
+        <source filename="Master_0/Master_0.ufo">
+            <lib copy="1"/>
+            <info copy="1"/>
+            <location>
+                <dimension name="width" xvalue="1"/>
+                <dimension name="vwidth" xvalue="1"/>
+            </location>
+        </source>
+        <source filename="Master_1/Master_1.ufo">
+            <location>
+                <dimension name="width" xvalue="1000"/>
+                <dimension name="vwidth" xvalue="1"/>
+            </location>
+        </source>
+        <source filename="Master_2/Master_2.ufo">
+            <location>
+                <dimension name="width" xvalue="1"/>
+                <dimension name="vwidth" xvalue="1000"/>
+            </location>
+        </source>
+        <source filename="Master_3/Master_3.ufo">
+            <location>
+                <dimension name="width" xvalue="1000"/>
+                <dimension name="vwidth" xvalue="1000"/>
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Width And Vertical Width VF" postscriptfontname="WidthAndVWidthVF-Condensed" stylename="Condensed">
+            <location>
+                <dimension name="width" xvalue="1" />
+                <dimension name="vwidth" xvalue="500" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Width And Vertical Width VF" postscriptfontname="WidthAndVWidthVF-VerticalCondensed" stylename="VerticalCondensed">
+            <location>
+                <dimension name="width" xvalue="500" />
+                <dimension name="vwidth" xvalue="1" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Width And Vertical Width VF" postscriptfontname="WidthAndVWidthVF-Required" stylename="Required">
+            <location>
+                <dimension name="width" xvalue="100" />
+                <dimension name="vwidth" xvalue="500" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Width And Vertical Width VF" postscriptfontname="WidthAndVWidthVF-VerticalRequired" stylename="VerticalRequired">
+            <location>
+                <dimension name="width" xvalue="500" />
+                <dimension name="vwidth" xvalue="100" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Width And Vertical Width VF" postscriptfontname="WidthAndVWidthVF-SemiCondensed" stylename="SemiCondensed">
+            <location>
+                <dimension name="width" xvalue="250" />
+                <dimension name="vwidth" xvalue="500" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Width And Vertical Width VF" postscriptfontname="WidthAndVWidthVF-VerticalSemiCondensed" stylename="VerticalSemiCondensed">
+            <location>
+                <dimension name="width" xvalue="500" />
+                <dimension name="vwidth" xvalue="250" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Width And Vertical Width VF" postscriptfontname="WidthAndVWidthVF-Regular" stylename="Regular">
+            <location>
+                <dimension name="width" xvalue="500" />
+                <dimension name="vwidth" xvalue="500" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Width And Vertical Width VF" postscriptfontname="WidthAndVWidthVF-SemiExtended" stylename="SemiExtended">
+            <location>
+                <dimension name="width" xvalue="750" />
+                <dimension name="vwidth" xvalue="500" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Width And Vertical Width VF" postscriptfontname="WidthAndVWidthVF-VerticalSemiExtended" stylename="VerticalSemiExtended">
+            <location>
+                <dimension name="width" xvalue="500" />
+                <dimension name="vwidth" xvalue="750" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Width And Vertical Width VF" postscriptfontname="WidthAndVWidthVF-Extended" stylename="Extended">
+            <location>
+                <dimension name="width" xvalue="1000" />
+                <dimension name="vwidth" xvalue="500" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Width And Vertical Width VF" postscriptfontname="WidthAndVWidthVF-VerticalExtended" stylename="VerticalExtended">
+            <location>
+                <dimension name="width" xvalue="500" />
+                <dimension name="vwidth" xvalue="1000" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+</designspace>
